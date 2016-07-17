@@ -1,2 +1,2 @@
 # hello-world
-Trying out GitHub with their Hello World guide
+I'm trying out GitHub with their Hello World guide. Nothing special to see here.
